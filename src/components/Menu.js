@@ -2,5 +2,14 @@ import Item from "./Item";
 import React, { Component } from 'react';
 
 
-const Menu = () => {}
+const Menu = () => {
+     return (
+     
+     <div>
+     <div>MEnu</div>  <Item/>
+    
+    </div>
+    )
+     
+}
 export default Menu
